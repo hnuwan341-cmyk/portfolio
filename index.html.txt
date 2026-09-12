@@ -1,0 +1,5 @@
+nuwan-dronegraphy/
+├── index.html      — full single-page site
+├── style.css       — dark theme, responsive layout, animations
+├── script.js       — all interactivity + easy-edit config at top
+└── assets/         — profile + 3 project placeholders (swap with your photos)
